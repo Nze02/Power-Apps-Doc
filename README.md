@@ -31,3 +31,5 @@ There are four major components of Power Apps:
 You sign up on Power Apps using your/an organisation’s email address. _Individual’s email address is not accepted_. Then enter your password.
 
 Thereafter, you can login with same details.
+
+![Power App Home Page](/images/home.png)
