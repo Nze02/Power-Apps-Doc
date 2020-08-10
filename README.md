@@ -33,3 +33,4 @@ You sign up on Power Apps using your/an organisation’s email address. _Individ
 Thereafter, you can login with same details.
 
 ![Power App Home Page](/images/home.png)
+_Home Page_
