@@ -34,3 +34,24 @@ Thereafter, you can login with same details.
 
 ![Power App Home Page](/images/home.png)
 _Home Page_
+
+### Building Model-Driven App
+
+I have created a basic excel sheet to hold the model (data) our app will be using. The excel sheet is uploaded to Microsoft OneDrive.
+
+![Add new connection Page](/images/basic_excel_sheet.png)
+_Add new connection page_
+
+Click the arrow button `->` on the home screen to display the page below.
+
+![Add new connection Page](/images/add_connection.png)
+_Add new connection page_
+
+Click `**+** New Connection` and select the data source(s) of your choice. In our case, we select OneDrive
+
+![Add new connection Page](/images/select_ondrive.png)
+_Choose connection(s) page_
+
+Select the table, click on `Connect`
+
+![Add new connection Page](/images/select_table.png)
