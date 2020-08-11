@@ -64,3 +64,24 @@ Power App builds a basic app with a simple UI based on the above data model. It 
 
 ![Add new connection Page](/images/app_screen.png)
 _The generated App_
+
+
+### Building Canvas apps
+
+Here Power App doesn't generate any app for you. Hence, no need for any initial data model.
+
+An empty canvas is provided for your app development. Power App comes with a good number of components which you can consume to make your app look exactly the way you want and the app development process faster.
+
+![Add new connection Page](/images/homeScreen_for_canvasApp.png)
+_Home Screen_
+
+Select the `Canvas app from blank` on the above screen.
+
+![Add new connection Page](/images/choose_device_type.png)
+_A modal showing various formats from which to choose from_
+
+Enter a name for your app and choose a device format for it. Then click `Create`.
+
+![Add new connection Page](/images/canvas_screen.png)
+
+Power App loads and displays an empty canvas for you. You can begin your app development.
