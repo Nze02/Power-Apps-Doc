@@ -29,7 +29,7 @@ There are four major components of Power Apps:
 ### Signing up And Signing into Power Apps
 
 You sign up on Power Apps using your/an organisation’s email address on [make.powerapps.com](https://make.powerapps.com/home). _Individual’s email address is not accepted_. Then enter your password.
-
+ 
 Thereafter, you can login with same details.
 
 ![Power App Home Page](/images/home.png)
