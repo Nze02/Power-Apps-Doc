@@ -41,6 +41,7 @@ _Home Page_
 I have created a basic excel sheet (named Excellence) to hold the model (data) our app will be using. The excel sheet is uploaded to Microsoft OneDrive.
 
 ![Add new connection Page](/images/basic_excel_sheet.png)
+
 _Excel sheet used as data source_
 
 
@@ -55,12 +56,11 @@ Click `+ New Connection` and select the data source(s) of your choice. In our ca
 ![Add new connection Page](/images/select_ondrive.png)
 _Select our basic excel sheet (Excellence)_
 
-
 Select the table and click on `Connect`
 
 ![Add new connection Page](/images/select_table.png)
 
-
 Power App builds a basic app with a simple UI based on the above data model. It can always be edited and more features added or removed.
 
 ![Add new connection Page](/images/app_screen.png)
+_Select our basic excel sheet (Excellence)_
