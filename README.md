@@ -63,4 +63,4 @@ Select the table and click on `Connect`
 Power App builds a basic app with a simple UI based on the above data model. It can always be edited and more features added or removed.
 
 ![Add new connection Page](/images/app_screen.png)
-_Select our basic excel sheet (Excellence)_
+_The generated App_
